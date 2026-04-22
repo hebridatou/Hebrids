@@ -89,12 +89,12 @@ class HebriDataouSaid:
 
 ### 📊 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=TON_USERNAME&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0f0c29&title_color=a78bfa&icon_color=f97316&text_color=e0d7ff" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TON_USERNAME&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0f0c29&title_color=a78bfa&text_color=e0d7ff" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=hebridatou&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0f0c29&title_color=a78bfa&icon_color=f97316&text_color=e0d7ff" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hebridatou&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0f0c29&title_color=a78bfa&text_color=e0d7ff" height="165"/>
 
 <br/>
 
-![GitHub Streak](https://streak-stats.demolab.com?user=TON_USERNAME&theme=midnight-purple&hide_border=true&background=0f0c29&ring=a78bfa&fire=f97316&currStreakLabel=e0d7ff)
+![GitHub Streak](https://streak-stats.demolab.com?user=hebridatou&theme=midnight-purple&hide_border=true&background=0f0c29&ring=a78bfa&fire=f97316&currStreakLabel=e0d7ff)
 
 </div>
 
